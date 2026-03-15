@@ -99,3 +99,39 @@
 ---
 
 ⭐ **Building intelligent AI systems that solve real-world problems**
+
+
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+
+### 📈 Profile Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimanshuMohanty-Git24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMohanty-Git24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 📊 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimanshuMohanty-Git24&theme=redical&hide_border=true)
+
+### 📈 Profile Summary Cards
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuMohanty-Git24&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuMohanty-Git24&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimanshuMohanty-Git24&theme=radical&utcOffset=5.30" />
+</p>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=HimanshuMohanty-Git24&icon=0&color=0)](https://visitcount.itsvg.in)
